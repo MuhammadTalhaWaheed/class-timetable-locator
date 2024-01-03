@@ -1,0 +1,10 @@
+             Tuesday             Thursday             Friday             Saturday
+
+08:00-08:55  ECC(A5)             Break                Cal(B12 EE)        ICT Lab(Lab 3)
+09:00-09:55  PST(A5)             Break                LA(B12 EE)         ICT Lab(Lab 3)
+10:00-10:55  PF(A5)              PF Lab(EE Lab 6)     Cal(B12 EE)        ICT Lab(Lab 3)
+11:00-11:55  Break               PF Lab(EE Lab 6)     Break              Cal(A7)
+12:00-12:55  LA(A5)              PF Lab(EE Lab 6)     Break              Break
+01:00-01:55  PF(A5)              Break                ECC Lab(B12 EE)    LA(A7)
+02:00-02:55  PST(A5)             PF(B11)              ECC Lab(B12 EE)    Break
+03:00-03:55  Break               ECC(B11)             ECC Lab(B12 EE)    PST(A7)

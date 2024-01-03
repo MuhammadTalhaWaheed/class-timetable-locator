@@ -1,0 +1,9 @@
+		MONDAY		TUESDAY		 WEDNESDAY	THURSDAY	FRIDAY 		SATURDAY		
+S1 8-8:55  			                 ECC(C-20)	PF(B-11)	ECC LAB(B-10)	ECC(B-9)
+S2 9-9:55			                 CAL(C-20)	CAL(B-11)	ECC LAB(B-10)	LA(B-9)
+S3 10-10:55			 					        ECC LAB(B-10)   
+S4 11-11:55					 PST(C-20)	PF(B-11)	LA(B-10)        PST(B-9)
+S5 12-12:55				         PF(C-20)					CAL(B-9)
+S6 1-1:55	 		                 PST(C-20)	LA(B-11)	PF-LAB(LAB 1)	ICT-LAB(LAB-11)			
+S7 2-2:55		 					                PF-LAB(LAB 1)   ICT-LAB(LAB-11)
+S8 3-3:55							                PF-LAB(LAB 1)   ICT-LAB(LAB-11)
